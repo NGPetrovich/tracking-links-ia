@@ -1,4 +1,6 @@
 import subprocess
+import os
+import glob
 
 scripts = [
     'affiliates-1.py',
@@ -16,3 +18,11 @@ for script in scripts:
     else:
         print(f"Error running {script}.")
         print(result.stderr)
+
+# Delete all CSV files except for "final.csv"
+csv_files = glob.glob('*.csv')
+for file in csv_files:
+    if file != 'final.csv':
+        os.remove(file)
+
+print("All CSV files except 'final.csv' have been deleted.")
