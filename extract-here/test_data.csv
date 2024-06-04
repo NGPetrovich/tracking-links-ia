@@ -1,0 +1,47 @@
+rowid,Currency Symbol,Total Records,Affiliate ID,Username,Country,Site ID,Site Name,Creative ID,Creative Name,Type,Impressions,Clicks,Click-Through Ratio,Registrations,Registration Ratio,New Account Ratio,New Depositing Acc Count,New Active Acc Count,First Deposit Count,Active Accounts,Active Days,New Acc Purchases,Depositing Accounts,Wagering Accounts,Average Active Days,Gross / Player,Net / Player,Deposits,Bonus,Chargebacks,Costs,Gross revenue,Net revenue,Total Bets/Hands,stake,Net Points,commadminfee,Average Revenue,% Commission,CPA Commission,CPA count,Total Commission
+1,EUR,45,5,Jack,,1,www.jack.com,150,Jack App - NL,Text Links,0,0,0,0,0,0,0,0,0,2,12,0,1,2,6,105.2625,105.2625,100,0,0,0,210.525,210.525,0,106.8,0,0,0,0,0,0,0
+1,EUR,45,5,Jack,,1,www.jack.com,151,Jack App - FR,Text Links,0,0,0,0,0,0,0,0,0,2,4,0,2,2,2,63.4375,63.4375,181,0,0,0,126.875,126.875,0,466,0,0,0,0,0,0,0
+1,EUR,45,5,Jack,,5,www.duck.com/,21,App - Duck - NL,Text Links,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,2.1,2.1,0,0,0,0,2.1,2.1,0,0,0,0,0,0,0,0,0
+1,EUR,45,5,Jack,,5,www.duck.com/,22,Live - Duck - NL,Text Links,0,0,0,0,0,0,0,0,0,1,3,0,1,1,3,14,14,20,0,0,0,14,14,0,20,0,0,0,0,0,0,0
+1,EUR,45,5,Jack,,65,tratatatata.be,79,Text Link - homepage - EN,Text Links,0,68,0,1,1.47,100,1,1,1,1,4,300,1,1,4,210,210,300,0,0,0,210,210,0,300,0,0,0,0,0,1,0
+1,EUR,45,5,Jack,,65,tratatatata.be,12,Text Link - homepage - FR,Text Links,0,55,0,2,3.64,100,2,2,2,2,2,217,2,2,1,75.95,75.95,217,0,0,0,151.9,151.9,0,217,0,0,0,0,0,2,0
+1,EUR,45,5,Jack,,65,tratatatata.be,12,Text Link - homepage - NL,Text Links,0,124,0,5,4.03,100,4,5,6,8,23,828,7,7,2,124.1406,124.1406,1438,0,0,0,993.125,993.125,0,7194.25,0,0,0,0,0,5,0
+1,EUR,45,5,Jack,,89,ak.tratatatata.be,79,Text Link - homepage - EN,Text Links,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,5,Jack,,89,ak.tratatatata.be,11,Text Link - homepage - FR,Text Links,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,5,Jack,,89,ak.tratatatata.be,12,Text Link - homepage - NL,Text Links,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,7,Missy,,2,WhyNot,27,Text Link - Registration - NL,Text Links,0,0,0,0,0,0,0,0,0,2,28,0,2,2,14,29.876,29.876,85.36,0,0,0,59.752,59.752,0,546.11,0,0,0,0,0,0,0
+1,EUR,45,7,Missy,,3,WhyYes,11,Text Link - homepage - NL,Text Links,0,0,0,0,0,0,0,0,0,1,24,0,1,1,24,131.25,131.25,190,0,0,0,131.25,131.25,0,186,0,0,0,0,0,0,0
+1,EUR,45,7,Missy,,62,Very Different,21,Text Link - Registration - NL,Text Links,0,2,0,1,50,100,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1,EUR,45,8,Donald,FRANCE,44,KB-KL-20240102-1123-RA-FR-DEF,12,Text Link - homepage - FR,Text Links,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,8,Donald,FRANCE,45,KB-LI-20240324-1223-RA-NL-VIC,12,Text Link - homepage - FR,Text Links,0,5,0,0,0,0,0,0,0,44,194,0,39,42,4,129.2974,129.2974,9626.83,0,0,0,5689.089,5689.089,0,24269.87,0,0,0,0,0,0,0
+1,EUR,45,8,Donald,FRANCE,46,KB-LI-20240424-1923-RA-NL-SIC,12,Text Link - homepage - FR,Text Links,0,11,0,3,27.27,33.33,1,1,1,25,104,200,22,22,4,155.1449,155.1449,6390.94,0,0,0,3878.623,3878.623,0,12380.24,0,0,0,0,0,0,0
+1,EUR,45,8,Donald,FRANCE,48,KB-KL-20240402-1123-RA-EN-MAX,22,Text Link - Login - FR,Text Links,0,5,0,0,0,0,0,0,0,1,1,0,1,1,1,21,21,30,0,0,0,21,21,0,30.35,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,7,Square Pop Up,Jpeg images,0,4,0,0,0,0,0,0,0,1,12,0,1,1,12,523.6,523.6,748,0,0,0,523.6,523.6,0,2224.75,0,0,0,157.08,0,0,157.08
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,43,Banner1_NL_300x250,Jpeg images,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,49,Banner1_FR_300x250,Jpeg images,1,5,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,85,Banner1_EN_300x250,Jpeg images,5,4,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,52,Banner2_NL_320x50,Jpeg images,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,56,Banner1_FR_300x250,Jpeg images,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,48,Banner3_FR_250x250,Jpeg images,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,43,Banner1_EN_300x250,Jpeg images,4,4,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,48,Banner3_EN_250x250,Jpeg images,4,3,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,12,Text Link - homepage - NL,Text Links,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,21,Text Link - Registration - NL,Text Links,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,22,Text LInk - Registration - FR,Text Links,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,23,Text Link - Registration - EN,Text Links,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,24,Text Link - Login - EN,Text Links,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,25,Text Link - Login - NL,Text Links,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,10,Rolland,GERMANY,37,https://www.rollexmollex.be,26,Text Link - Login - FR,Text Links,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,14,Mike,GERMANY,55,https://www.mickymousemike.be/,24,Text Link - Login - NL,Text Links,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,16,Sheldon,ENGLAND,59,callmesall.be,12,Text Link - homepage - NL,Text Links,0,12,0,2,16.67,100,2,2,2,2,3,120,2,2,1,42,42,120,0,0,0,84,84,0,120,0,0,0,21,0,0,21
+1,EUR,45,16,Sheldon,ENGLAND,59,callmesall.be,21,Text Link - Registration - NL,Text Links,0,0,0,0,0,0,0,0,0,1,5,0,1,1,5,-26.6,-26.6,60,0,0,0,-26.6,-26.6,0,64,0,0,0,-6.65,0,0,-6.65
+1,EUR,45,16,Sheldon,ENGLAND,66,callmesall.be,21,Text Link - Registration - NL,Text Links,0,0,0,0,0,0,0,0,0,2,3,0,2,2,1,136.71,136.71,390,0,0,0,273.42,273.42,0,1362.85,0,0,0,68.3551,0,0,68.3551
+1,EUR,45,16,Sheldon,ENGLAND,66,callmesall.be,22,Text Link - Login - NL,Text Links,0,4,0,0,0,0,0,0,0,1,2,0,1,1,2,70,70,100,0,0,0,70,70,0,100,0,0,0,17.5,0,0,17.5
+1,EUR,45,19,Fanny,SPAIN,69,http://notfeelingit.be,21,Text Link - Registration - NL,Text Links,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,19,Fanny,SPAIN,69,http://notfeelingit.be,23,Text LInk - Registration - FR,Text Links,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,20,Pits,ITALY,85,https://www.yeahyeahyeah.be/,11,Text Link - homepage - FR,Text Links,0,30,0,0,0,0,0,0,1,4,17,0,3,4,4,-83.79,-83.79,505,0,0,0,-335.16,-335.16,0,1141.05,0,0,0,-67.032,0,0,-67.032
+1,EUR,45,25,Holly,ITALY,140,https://www.tellmeaboutit.be/,11,Text Link - homepage - FR,Text Links,0,16,0,1,6.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,EUR,45,25,Holly,ITALY,141,https://www.tellmeaboutit.be/,12,Text Link - homepage - NL,Text Links,0,20,0,2,10,100,2,2,2,2,3,250,2,2,1,87.5,87.5,250,0,0,0,175,175,0,250,0,0,0,26.25,120,2,146.25
+1,EUR,45,25,Holly,ITALY,142,https://www.tellmeaboutit.be/,12,Text Link - homepage - NL,Text Links,0,30,0,1,3.33,100,1,1,1,2,5,170,2,2,2,23.8,23.8,215,0,0,0,47.6,47.6,0,250,0,0,0,7.14,60,1,67.14
+1,EUR,45,25,Holly,ITALY,143,https://www.tellmeaboutit.be/,11,Text Link - homepage - FR,Text Links,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,EUR,45,,,,,,,,,16,731,4568.75,18,2.46,83.33,13,15,16,106,451,2085,93,98,4,116.0386,116.0386,20967.13,0,0,0,12300.099,12300.099,0,51229.27,0,0,0,223.6431,180,12,403.6431
